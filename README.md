@@ -1,1 +1,1 @@
-# rn-focustime
+# Simple Pomodoro React Native App 
